@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Quiz App</string>
     <string name="rules">   These rules are applied-> \n
-                * Yoy will get 10 random questions.\n
+                * You will get 10 random questions.\n
                 * Each questions have 4 options.\n
                 * Click on the correct one and submit.\n
                 * 70% of correct attempt will become Winner.\n
